@@ -1,0 +1,42 @@
+[
+    {
+      "_id": 1,
+      "name": "Pasta Basta",
+      "description": "Prepared with cheese, chicken, mushroom, capsicum, tomato sauce & krauter garlic",
+      "Price": "299",
+      "img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1653232929~exp=1653233529~hmac=277242db79016e4e71f2bba63c22ea67eb6ad71cb4b73f1a8a54d2d600205305&w=1380"
+        
+    },
+    {
+      "_id": 2,
+      "name": "Beef Shawarma",
+      "description": "Bun shawarma",
+      "Price": "189",
+      "img": "https://i.ibb.co/F8QzS75/shawarma-rolled-lavash-moist-grilled-meat-with-onion-herbs-vegetables-wooden-black-background.jpg"
+    
+    },
+    {
+      "_id": 3,
+      "name": "Chicken Wrap",
+      "description": "1 pc; consisting of chicken meat cut thinly, stacked in a cone like shape, and roasted on a slowly-turning vertical rotisserie or spit",
+      "Price": "209"
+    },
+    {
+      "_id": 4,
+      "name": "Kings Speacil Shwarma",
+      "description": "Bun shawarma",
+      "Price": "199"
+    },
+    {
+      "_id": 5,
+      "name": "Kings Speacil noodles",
+      "description": "1:2",
+      "Price": "249"
+    },
+    {
+      "_id": 6,
+      "name": "Set Menu 1",
+      "description": "Served for 1 person, consisting of egg fried rice, Chiense vegetable, chicken curry & salad",
+      "Price": "219"
+    }
+  ]

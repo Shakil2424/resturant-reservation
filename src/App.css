@@ -1,0 +1,15 @@
+/* primary button  */
+.custom-btn{
+  padding: 15px 14px ;
+  background: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight:700;
+  border: none;
+  color: white;
+  
+}
+.custom-btn:hover{
+  background: linear-gradient(90deg, #1ac09f -22.5%, #10bcd6 120.83%);
+  
+}

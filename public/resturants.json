@@ -1,0 +1,109 @@
+[
+    {
+      "_id": 1,
+      "img" : "https://i.ibb.co/wQ2xprr/carlos-aranda-IYMce-Gutrb-Q-unsplash.jpg",
+      "name": "Sharma King",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+       
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 2,
+      "img" : "https://i.ibb.co/HpvjRy0/siyuan-g-V2rt6i-G7-A-unsplash.jpg",
+      "name": "Chilly Kabab hotel",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 3,
+      "img" : "https://i.ibb.co/ZcfKbbt/andrew-seaman-s-Qop-Sb2-K0-CU-unsplash.jpg",
+      "name": "Shuttle Train",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 4,
+      "img": "https://i.ibb.co/jzdRPRD/nick-karvounis-Ciqxn7-FE4v-E-unsplash.jpg",
+      "name": "PizzaBurg ",
+      "slots": [
+     
+      ]
+    },
+    {
+      "_id": 5,
+      "img" : "https://i.ibb.co/ctW5bYv/patrick-tomasso-GXXYk-Swnd-P4-unsplash.jpg",
+      "name": "Lake view cafe & bar",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 6,
+      "img": "https://i.ibb.co/MndsT8s/shawnanggg-nmp-W-Www-VSc-unsplash.jpg",
+      "name": "B F C",
+      "slots": [
+        
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    }
+  ]
